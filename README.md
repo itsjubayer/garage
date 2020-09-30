@@ -8,9 +8,9 @@
 
 Deploy:
 open the project in vsstudio then go to the console and execute the command to create database
- -  tools -> package manager console
- ->  Add-Migration "InitialCreate"
- ->  Update-Database
+-> tools -> package manager console
+  -  Add-Migration "InitialCreate"
+  -  Update-Database
 
 Task:
 - CRUD - DONE
